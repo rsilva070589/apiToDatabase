@@ -1,0 +1,11 @@
+
+1 - it is necessary to create an .env file in the root folder of the project, or in the folder where the compiled file is  with 3 variables:
+DB_NAME= // username
+DB_PASS= // password
+DB_HOST= //string conection
+in the root folder of the project, or in the folder where the compiled file is
+
+
+2- configure your environment with Oracle Client variables
+
+3- Run SQL file "CreateTablePost.sql" on your Database to create Post table
